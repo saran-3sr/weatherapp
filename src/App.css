@@ -4,7 +4,7 @@
 }
 body
 {
-    background-image: url("D:/React/weatherapp1/src/Weather-background.jpg");
+    background-image: url("./Weather-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
 }
